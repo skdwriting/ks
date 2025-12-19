@@ -1,4 +1,4 @@
-# AI Reading Industry Weekly Updates (ARIWU)
+# AI Reading  - Industry Weekly Updates (ARIWU)
 ["Arivu" /similar in some of the Indian languages like Tamil, Malayalam, Kannda, means knowledge, wisdom, or intellect]
 
 ## Introduction:
