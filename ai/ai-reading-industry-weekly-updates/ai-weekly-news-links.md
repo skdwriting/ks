@@ -9,6 +9,13 @@ Curated links for AI News. Anything better, please suggest!
    Andrew Ng's weekly AI research + industry summary
 3. [AI Weekly](https://aiweekly.co/)
    Free weekly updates
+   
+4. [Daily Dose of AI]( https://dailydoseofai.in/)
+   Free AI Tech updates on a daily basis
+
+
+
    TIP: Just start with 3. Once you sustain, try more and different sources.
    Sustaining even one reliable source itself is really good.
+
  
